@@ -28341,7 +28341,7 @@
                       className: "nav-social",
                       children: [
                         (0, Me.jsx)("a", {
-                          href: "https://x.com/land402_sol",
+                          href: "https://x.com/land420_fun",
                           className: "social-icon twitter",
                           "aria-label": "Twitter",
                           target: "_blank",
@@ -32707,7 +32707,7 @@
                                       ),
                                     onClick: () => {
                                       window.open(
-                                        "https://x.com/land402_sol",
+                                        "https://x.com/land420_fun",
                                         "_blank"
                                       ),
                                         s(!0),
